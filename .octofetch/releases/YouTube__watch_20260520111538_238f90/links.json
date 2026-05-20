@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6387",
+  "folder": "YouTube__watch_20260520111538_238f90",
+  "base_name": "resident_evil_4_-_mod_rising_of_evil_5_l046DRodPXU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/poorgemil-hub/Cloud-Downloads-3/releases/tag/co-releases-v1-6387",
+  "files": [
+    {
+      "name": "resident_evil_4_-_mod_rising_of_evil_5_l046DRodPXU_720p.mp4",
+      "url": "https://github.com/poorgemil-hub/Cloud-Downloads-3/releases/download/co-releases-v1-6387/resident_evil_4_-_mod_rising_of_evil_5_l046DRodPXU_720p.mp4",
+      "api_url": "https://api.github.com/repos/poorgemil-hub/Cloud-Downloads-3/releases/assets/425146455",
+      "id": 425146455,
+      "size": 985396429,
+      "download_count": 0
+    }
+  ]
+}
