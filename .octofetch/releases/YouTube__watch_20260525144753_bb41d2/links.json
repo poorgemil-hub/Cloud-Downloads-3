@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4580",
+  "folder": "YouTube__watch_20260525144753_bb41d2",
+  "base_name": "RE4_-_HD_LIFE_IN_HELL_MOD_-_LIVE_GUIA_04_O8eg4dWiqec_360p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/poorgemil-hub/Cloud-Downloads-3/releases/tag/co-releases-v1-4580",
+  "files": [
+    {
+      "name": "RE4_-_HD_LIFE_IN_HELL_MOD_-_LIVE_GUIA_04_O8eg4dWiqec_360p.mp4",
+      "url": "https://github.com/poorgemil-hub/Cloud-Downloads-3/releases/download/co-releases-v1-4580/RE4_-_HD_LIFE_IN_HELL_MOD_-_LIVE_GUIA_04_O8eg4dWiqec_360p.mp4",
+      "api_url": "https://api.github.com/repos/poorgemil-hub/Cloud-Downloads-3/releases/assets/429426544",
+      "id": 429426544,
+      "size": 891880262,
+      "download_count": 0
+    }
+  ]
+}
