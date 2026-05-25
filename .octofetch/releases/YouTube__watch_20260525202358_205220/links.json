@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6842",
+  "folder": "YouTube__watch_20260525202358_205220",
+  "base_name": "(_16)_FXiSZ9WDYj0_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/poorgemil-hub/Cloud-Downloads-3/releases/tag/co-releases-v1-6842",
+  "files": [
+    {
+      "name": "_16._FXiSZ9WDYj0_720p.mp4",
+      "url": "https://github.com/poorgemil-hub/Cloud-Downloads-3/releases/download/co-releases-v1-6842/_16._FXiSZ9WDYj0_720p.mp4",
+      "api_url": "https://api.github.com/repos/poorgemil-hub/Cloud-Downloads-3/releases/assets/429627693",
+      "id": 429627693,
+      "size": 105730447,
+      "download_count": 0
+    }
+  ]
+}
